@@ -1,0 +1,169 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2017-07-04 02:09+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/"
+
+#: ot_portfolio.php:27 ot_portfolio.php:33
+msgid "All Portfolios"
+msgstr ""
+
+#: ot_portfolio.php:28 ot_portfolio.php:39
+msgid "Portfolios"
+msgstr ""
+
+#: ot_portfolio.php:29
+msgid "Add portfolio"
+msgstr ""
+
+#: ot_portfolio.php:30 ot_portfolio.php:32
+msgid "Add new portfolio"
+msgstr ""
+
+#: ot_portfolio.php:31
+msgid "Edit Portfolio"
+msgstr ""
+
+#: ot_portfolio.php:34
+msgid "View Portfolio"
+msgstr ""
+
+#: ot_portfolio.php:35
+msgid "Search Portfolio"
+msgstr ""
+
+#: ot_portfolio.php:36
+msgid "No Portfolios found.."
+msgstr ""
+
+#: ot_portfolio.php:37
+msgid "No Portfolios found in Trash"
+msgstr ""
+
+#: ot_portfolio.php:38
+msgid "Parent Portfolio:"
+msgstr ""
+
+#: ot_portfolio.php:45
+msgid "List Portfolio"
+msgstr ""
+
+#: ot_portfolio.php:60
+msgid "portfolio"
+msgstr ""
+
+#: ot_portfolio.php:75 ot_portfolio.php:76 ot_portfolio.php:85
+msgid "Categories"
+msgstr ""
+
+#: ot_portfolio.php:77
+msgid "Search Categories"
+msgstr ""
+
+#: ot_portfolio.php:78
+msgid "All Categories"
+msgstr ""
+
+#: ot_portfolio.php:79
+msgid "Parent Categories"
+msgstr ""
+
+#: ot_portfolio.php:80
+msgid "Parent Categories:"
+msgstr ""
+
+#: ot_portfolio.php:81
+msgid "Edit Categories"
+msgstr ""
+
+#: ot_portfolio.php:82
+msgid "Update Categories"
+msgstr ""
+
+#: ot_portfolio.php:83
+msgid "Add New Categories"
+msgstr ""
+
+#: ot_portfolio.php:84
+msgid "New Categories Name"
+msgstr ""
+
+#: ot_portfolio.php:95
+msgid "categories"
+msgstr ""
+
+#: ot_portfolio.php:107 ot_portfolio.php:108 ot_portfolio.php:117
+msgid "Tags"
+msgstr ""
+
+#: ot_portfolio.php:109
+msgid "Search Tags"
+msgstr ""
+
+#: ot_portfolio.php:110
+msgid "All Tags"
+msgstr ""
+
+#: ot_portfolio.php:111
+msgid "Parent Tags"
+msgstr ""
+
+#: ot_portfolio.php:112
+msgid "Parent Tags:"
+msgstr ""
+
+#: ot_portfolio.php:113
+msgid "Edit Tags"
+msgstr ""
+
+#: ot_portfolio.php:114
+msgid "Update Tags"
+msgstr ""
+
+#: ot_portfolio.php:115
+msgid "Add New Tags"
+msgstr ""
+
+#: ot_portfolio.php:116
+msgid "New Tags Name"
+msgstr ""
+
+#: ot_portfolio.php:127
+msgid "tags"
+msgstr ""
+
+#: ot_portfolio.php:188
+msgid "No Portfolio Category"
+msgstr ""
+
+#: ot_portfolio.php:203
+msgid "No Portfolio Tag"
+msgstr ""
+
+#. Name of the plugin
+msgid "OT Portfolios"
+msgstr ""
+
+#. Description of the plugin
+msgid ""
+"Declares a plugin that will create a custom post type displaying portfolios."
+msgstr ""
+
+#. URI of the plugin
+#. Author URI of the plugin
+msgid "http://oceanthemes.net/"
+msgstr ""
+
+#. Author of the plugin
+msgid "OceanThemes"
+msgstr ""
