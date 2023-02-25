@@ -9,6 +9,8 @@ Template:       buildpro
 */
 
 @import url("../buildpro/style.css");
+
+.padding15, .padd15 > div > .wpb_wrapper{padding:15px !important;}
  
 /* =Theme customization starts here
 ------------------------------------------------------- */

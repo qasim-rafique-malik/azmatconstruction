@@ -219,7 +219,7 @@ function buildpro_scripts() {
 	
 
 	/** All frontend js files **/
-	wp_enqueue_script("mapapi", "$protocol://maps.google.com/maps/api/js?key=AIzaSyAvpnlHRidMIU374bKM5-sx8ruc01OvDjI",array(),false,false); 
+	//wp_enqueue_script("mapapi", "$protocol://maps.google.com/maps/api/js?key=AIzaSyAvpnlHRidMIU374bKM5-sx8ruc01OvDjI",array(),false,false);
 	wp_enqueue_script("bootstrap", get_template_directory_uri()."/js/bootstrap.min.js",array('jquery'),false,true);    
 	wp_enqueue_script("easing", get_template_directory_uri()."/js/easing.js",array('jquery'),false,true);
     wp_enqueue_script("countto", get_template_directory_uri()."/js/jquery.countTo.js",array('jquery'),false,true);

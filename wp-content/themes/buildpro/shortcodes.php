@@ -296,7 +296,7 @@ function iconbox_func($atts, $content = null){
 	), $atts));
 	$url 	= vc_build_link( $btn );
 	$img 	 = wp_get_attachment_image_src($photo,'full');
-	$img 	 = $img[0];
+	$img 	 = isset($img[0])?$img[0]:'';
 	ob_start(); ?>
 
 	<figure class="pic-hover hover-scale">
