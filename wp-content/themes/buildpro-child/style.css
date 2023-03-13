@@ -8,9 +8,25 @@ Version:        1.0
 Template:       buildpro
 */
 
-@import url("../buildpro/style.css");
-
-.padding15, .padd15 > div > .wpb_wrapper{padding:15px !important;}
- 
 /* =Theme customization starts here
 ------------------------------------------------------- */
+
+@import url("../buildpro/style.css");
+
+.padding15, .padd15 > div > .wpb_wrapper{
+    padding:15px !important;
+}
+
+#getAQuoteFrom div p{
+    margin: 8px !important;
+}
+
+#getAQuoteFrom ~.wpcf7-response-output{
+    padding: 0.2em 1em !important;
+    margin: 0px !important;
+    font-size: 15px !important;
+    position: fixed !important;
+    bottom: -2px !important;
+    color: black !important;
+    border: none !important;
+}

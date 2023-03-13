@@ -11,7 +11,8 @@
                         <span class="vca-popular"><?php echo $active_text; ?></span>    
                     <?php endif ?>
                 </span>
-                <span class="vca-price-value"><?php echo $table_currency; ?><span><?php echo $table_price; ?></span><span class="mo"> <?php echo $table_price_period; ?></span></span>
+            <!--<span class="vca-price-value">--><?php //echo $table_currency; ?><!--<span>--><?php //echo $table_price; ?><!--</span><span class="mo"> --><?php //echo $table_price_period; ?><!--</span></span>-->
+                <span class="vca-price-value"><span></span></span>
             </div>
 
             <div class="vca-pricingContent">

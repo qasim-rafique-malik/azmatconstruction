@@ -20,7 +20,7 @@
 
 // ** Database settings - You can get this info from your web host ** //
 /** The name of the database for WordPress */
-define( 'DB_NAME', 'azmatconstruction' );
+define( 'DB_NAME', 'azmatconst_wp_xw14j' );
 
 /** Database username */
 define( 'DB_USER', 'root' );
